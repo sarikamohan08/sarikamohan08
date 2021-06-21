@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarika Mohanraj
-- 👀 I’m interested in Machine Learning,deep learning,artificial intelligence,data science
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Deep learning
 
 <!---
