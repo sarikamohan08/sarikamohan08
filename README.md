@@ -1,11 +1,14 @@
 <h1> 👩‍💻 Hey! Nice to see you.</h1>
 <h1 align="left">I'm Sarika 😇</h1>
 
-### I have technical experience and interest in -
-* Deep Learning
+### Interested in -
 * Machine Learning
+* Deep Learning
 * Computer vision
+* Natural Language Processing 
 
+
+### Tech Stacks
 
 
 <h3 align="left">Languages and Tools:</h3>
