@@ -5,9 +5,7 @@
 * Deep Learning
 * Machine Learning
 * Computer vision
-* Natural Language Processing
-* Microcontrollers
-* Robotics
+
 
 
 <h3 align="left">Languages and Tools:</h3>
