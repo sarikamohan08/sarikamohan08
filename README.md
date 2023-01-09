@@ -43,9 +43,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarikamohan08&show_icons=true&locale=en&layout=compact" alt="sarika" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarikamohan08&show_icons=true&locale=en&layout-compact" alt="sarika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarikamohan08&show_icons=true&locale=en" alt="sarika" /></p>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarikamohan08&theme" alt="sarikamohan08" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarikamohan08&theme=default" alt="sarikamohan08" /></p>
