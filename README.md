@@ -47,5 +47,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarikamohan08&show_icons=true&locale=en" alt="sarika" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarikamohan08&show_icons=true&count_private=true&layout-compact"/></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarikamohan08&show_icons=true&count_private=true&layout-compact" alt="sarika"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sarikamohan08)](https://git.io/streak-stats)
